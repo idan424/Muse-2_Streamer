@@ -10,4 +10,4 @@ p.s. this is a [WIP], i'm working on it ocasionally
 - run:    can run once, n-times or continuously. 
           printing the read values is optional
 - record: can record for a set ammount of seconds, or continuously. 
-          input args are _seconds or _number-of-samples-per-file
+          input args are seconds or number-of-samples-per-file
