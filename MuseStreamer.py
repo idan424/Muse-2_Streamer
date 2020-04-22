@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from pylsl import StreamInlet, resolve_byprop  # Module to receive EEG data
-import utils  # Our own utility functions
+import utils 
 import numpy as np
 import signal
 import sys
