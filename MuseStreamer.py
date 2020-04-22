@@ -19,6 +19,8 @@ def keyboardInterruptHandler(sig, frame):
 
 signal.signal(signal.SIGINT, keyboardInterruptHandler)
 
+# these parameters are remaind from the ancestor of this code (orig: muselsl examples folder)
+
 '''
 EXPERIMENTAL PARAMETERS, Modify these to change aspects of the signal processing:
 
