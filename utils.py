@@ -1,3 +1,6 @@
+# This code is from the muselsl project @https://github.com/alexandrebarachant/muse-lsl
+# I intend to write a custom code that will replace it for the muse-2-streamer project
+
 """
 Muse LSL Example Auxiliary Tools
 These functions perform the lower-level operations involved in buffering,
